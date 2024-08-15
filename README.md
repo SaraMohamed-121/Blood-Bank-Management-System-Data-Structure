@@ -1,9 +1,12 @@
-#Blood Donation Management System
-##📋 Overview
+# Blood Donation Management System
+
+## 📋 Overview
+
 The Blood Donation Management System is a C++ application 
 designed to facilitate blood donations and requests, especially in emergency situations.
 The system caters to three user roles: Donors, Recipients, and Admins,
 each with distinct functionalities aimed at ensuring efficient and safe blood management.
+
 ## 🚀 Features
 
 ### 👥 Donor Features:
